@@ -3,7 +3,7 @@
 </p>
 
 
-# 📚 Projeto Previsão do Tempo
+# 📚 Projeto Jokenpo
 
  > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso no qual fui aluna na plataforma do [DevClub](https://aulas.devclub.com.br/m/home)
 
